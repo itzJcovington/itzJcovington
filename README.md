@@ -1,40 +1,25 @@
-# Hi there, I'm Jake 👋
+👋 Hi, I'm Charles Jacob Covington (Jake)
+Welcome to my GitHub profile! I'm a Full Stack Web Developer with a focus on building clean, responsive websites and web applications. I’m always eager to learn and expand my skill set while building useful, real-world projects.
 
-## 💻 About Me
+🚀 Skills and Technologies
+Frontend:
 
-I'm Charles Jacob Covington, a Frontend and Backend Web Developer with a passion for building responsive, user-friendly websites. I started my journey in web development in January 2024, and since then, I've been learning and growing my skills in various technologies.
+HTML5, CSS3 (Flexbox, Grid, Bootstrap)
+JavaScript (ES6+), DOM Manipulation, jQuery
+Responsive Design
+Backend:
 
-I enjoy creating both functional and visually appealing web experiences and am always eager to learn new things and take on challenges in web development.
+Node.js, Express.js, EJS
+Tools:
 
-### 🛠️ Tech Stack
-
-- **Frontend**: HTML, CSS, Flexbox, Grid, JavaScript (ES6), jQuery
-- **Backend**: Node.js, Express.js, EJS
-- **Tools**: Git, npm, Command Line Interface (CLI), Linux (Ubuntu)
-
-### 🔭 Current Projects
-
-- Building my [portfolio website](https://github.com/YourPortfolioLink) to showcase my web development projects.
-- Developing a blog website using Node.js, Express, and EJS for a full-stack web application experience.
-  
-### 🌱 Learning
-
-- Backend development (focused on Node.js and Express.js).
-- Improving UI/UX skills for building more user-friendly interfaces.
-- Continuing to expand my knowledge of full-stack web development.
-
-### 📚 Future Plans
-
-- Transition to freelancing in web development.
-- Deepen my knowledge in WordPress development.
-- Learn more about databases and backend infrastructure.
-
-### 💬 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile)
-- [GitHub](https://github.com/YourGitHubUsername)
-
-Feel free to check out my repositories or reach out for collaboration!
-
----
-“Striving to learn, code, and build every day.”
+Git, npm, Command Line Interface (CLI)
+Figma
+🌱 Currently Learning
+Full Stack Development via the Udemy course "The Complete 2024 Web Development Bootcamp"
+🛠️ What I'm working on
+Building a personal website to showcase my web development projects and skills.
+Continuing to refine my skills in JavaScript, Node.js, and Express.js.
+📫 Get in Touch
+Email: Jakecovington28@yahoo.com
+LinkedIn: Connect with me
+GitHub: Explore my repositories
