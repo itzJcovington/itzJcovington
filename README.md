@@ -32,16 +32,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-c13584?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/covingtonwebservices)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61576062535738)
  
-
----
-
-## GitHub Stats  
-  
-![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzJcovington&show_icons=true&count_private=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzJcovington&layout=compact&count_private=true&theme=default)  
-![GitHub Streak](https://streak-stats.demolab.com?user=itzJcovington&theme=default&include_all_commits=true)
-
-
 ---
 
 > *Soli Deo Gloria*
