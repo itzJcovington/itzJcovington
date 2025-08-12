@@ -28,9 +28,10 @@
 ## Connect With Me  
 
 [![LinkedIn - Personal](https://img.shields.io/badge/LinkedIn%20(Personal)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-covington-85a9612b3)  
-[![LinkedIn - Covington Web Services](https://img.shields.io/badge/LinkedIn%20(Covington%20Web%20Services)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/company/covingtonwebservices](https://www.linkedin.com/company/covington-web-services)  
+[![LinkedIn - Covington Web Services](https://img.shields.io/badge/LinkedIn%20(Covington%20Web%20Services)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/covington-web-services)  
 [![Instagram](https://img.shields.io/badge/Instagram-c13584?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/covingtonwebservices)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/covingtonwebservices](https://www.facebook.com/profile.php?id=61576062535738)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61576062535738)
+ 
 
 ---
 
