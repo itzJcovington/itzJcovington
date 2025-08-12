@@ -36,10 +36,11 @@
 ---
 
 ## GitHub Stats  
+  
+![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzJcovington&show_icons=true&count_private=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzJcovington&layout=compact&count_private=true&theme=default)  
+![GitHub Streak](https://streak-stats.demolab.com?user=itzJcovington&theme=default&include_all_commits=true)
 
-![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzJcovington&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzJcovington&layout=compact&theme=default)  
-![GitHub Streak](https://streak-stats.demolab.com?user=itzJcovington&theme=default)  
 
 ---
 
